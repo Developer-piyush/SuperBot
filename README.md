@@ -1,7 +1,12 @@
 <h2 align="center"><b><u>Open-Source All in one SuperBOT hosted on Decentralized Cloud</u></b></h2>
 <u></u>
-
-![](https://siasky.net/IADVBzekAnXn19BSB02WxIAKNtBcjRZOITyHs7r12E_6Vg)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://siasky.net/IADVBzekAnXn19BSB02WxIAKNtBcjRZOITyHs7r12E_6Vg"
+  >
+</p>
 
 <h5><b>INTRODUCTION:</b></h5>
 <ins><u></u></ins>
