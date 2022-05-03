@@ -1,16 +1,42 @@
-Hey there, Thanks for the order. Truly Appriciate it. Now that you have this wonderful bot with you, you'll need to set it up. That's what this file is for.
+<h2 align="center"><b><u>Open-Source All in one SuperBOT hosted on Decentralized Cloud</u></b></h2>
+<u></u>
 
-Getting your bot token:
-Head over to https://discord.com/developers/applications and create a new application. Now go over to the bot section, click create bot. Now you can customise your bot's name and image.
-Scroll a bit down and enable Presence, server members and message intents. This is super important. After you're done with setup, click reset token and copy the new token.
-You will need this later on
+<h5><b>INTRODUCTION:</b></h5>
+<ins><u></u></ins>
+Our aim is to create biggest decentralized open-source bot economy starting for all the available platforms(starting from discord).
+SuperBot is an open-source all in one bot hosted on decentralized cloud, can be used to manage community with just few clicks. It can be easily be deployed on decentralized cloud [Akash Network](https://akash.network/) by just following few steps as explained below.
 
-Bot setup:
+<h5><b>FEATURES OF BOT(Live):</b></h5>
+<u>
+<ul>
+  <li>User Verification</li>
+  <li>Support Ticket</li>
+  <li>Discord new user join alert</li>
+  <li>Anti link + Anti spam</li>
+  <li>invite tracker</li>
+  <li>simple POLL bot to get users input</li>
+</ul>
 
-If you already have python, you can skip Step 1 and 2
-1. Go to https://www.python.org/ and download the latest python.
-2. Run the installer and select "Add python to PATH" (VERY IMPORTANT)
 
-3. Open command prompt and type in 'pip install -U py-cord --pre' and 'pip install PycordUtils'
-4. Now you should go to bot folder, open up config.json and paste in the token you got earlier inside the "".
-Now you can run the bot and enjoy its benefits. Do not forget to mark the order as complete and give us a good 5 star review. Cheers!
+<h5><b>STEP BY STEP GUIDE TO DEPLOY IT BY YOURSELF(Video tutorial will be uploaded soon):</b></h5>
+<u>
+<ul>
+  <li>Fork the repository</li>
+  <li>Build Docker image::</li>
+  <li>Push the docker image to docker hub</li>
+  <li> [Install Akashlytics Deploy](https://www.akashlytics.com/deploy) </li>
+  <li> [Install Keplr wallet and load it with $AKT](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) </li>
+  <li>Load your wallet in Akashlytics deploy</li>
+  <li>Create Deployment with empty yaml file</li>
+  <li>Copy paste the Deploy.yaml file content and replace the token with your bot token.</li>
+  <li>Bot is successfully deployed on decentralized cloud and can now be invited to server.</li>
+</ul>
+
+<h5><b>TECH STACK:</b></h5>
+<u>
+  <li>Python</li>
+  <li>Docker</li>
+  <li>Akash Network(YAML)</li>
+
+
+
