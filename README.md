@@ -3,7 +3,7 @@
 
 <h5><b>INTRODUCTION:</b></h5>
 <ins><u></u></ins>
-Our aim is to create biggest decentralized open-source bot economy starting for all the available platforms(starting from discord).
+Our aim is to create biggest decentralized open-source bot economy for all the available platforms(starting from discord).
 SuperBot is an open-source all in one bot hosted on decentralized cloud, can be used to manage community with just few clicks. It can be easily be deployed on decentralized cloud [Akash Network](https://akash.network/) by just following few steps as explained below.
 
 <h5><b>FEATURES OF BOT(Live):</b></h5>
@@ -16,6 +16,8 @@ SuperBot is an open-source all in one bot hosted on decentralized cloud, can be 
   <li>invite tracker</li>
   <li>simple POLL bot to get users input</li>
 </ul>
+  
+## Live test our bot: https://discord.gg/qUQwtvtP
 
 
 <h5><b>STEP BY STEP GUIDE TO DEPLOY IT BY YOURSELF(Video tutorial will be uploaded soon):</b></h5>
