@@ -1,6 +1,8 @@
 <h2 align="center"><b><u>Open-Source All in one SuperBOT hosted on Decentralized Cloud</u></b></h2>
 <u></u>
 
+![](https://siasky.net/IADVBzekAnXn19BSB02WxIAKNtBcjRZOITyHs7r12E_6Vg)
+
 <h5><b>INTRODUCTION:</b></h5>
 <ins><u></u></ins>
 Our aim is to create biggest decentralized fully secured open-source bot economy for all the available platforms(starting from discord).
